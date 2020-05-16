@@ -20,5 +20,6 @@ public class LeetCode1 {
     public static void main(String[] args) {
         int i = distributeCandies(new int[]{2, 2, 2, 4, 4, 4});
         System.out.println(i);
+        System.out.println("okk");
     }
 }
