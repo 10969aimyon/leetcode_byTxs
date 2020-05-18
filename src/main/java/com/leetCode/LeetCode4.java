@@ -20,8 +20,6 @@ public class LeetCode4 {
         return q+1;
     }
 
-
-
     public static void main(String[] args) {
 
     }
